@@ -11,4 +11,4 @@ We didn't have any budget, so we had to be very resourceful. We went to local cl
 We used the syringes as manual pumps to move "blood" (red-colored water) through the drip pipes and into the juice bottle. The idea was to show how the fluid could be filtered and then pumped back into the patient's vein.
 # ​The Result:
 We actually got rejected by the judges. The main reason was that our dialysis fluid wasn't yellow, which they said wasn't realistic. Also, some teachers were favoring their own students.
-​Even though we didn't win, I am very proud of this project. It was the first time I led a team and built something mechanical from scratch using just our imagination and things we found in clinics. It's a big part of why I want to study Computer Science and Engineering now
+​Even though we didn't win, I am very proud of this project. It was the first time I led a team and built something mechanical from scratch using just our imagination and things we found in clinics. It's a big part of why I want to study Computer Science and Engineering now.
